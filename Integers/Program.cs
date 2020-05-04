@@ -55,6 +55,8 @@ namespace Integers
             myNumber += 1;//addition
             Console.WriteLine("Addition Number is " + myNumber);
 
+            Console.WriteLine("Completed with Integers tutorial!!!!!       ... Hurray!!!!");
+
         }
     }
 }
